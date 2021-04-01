@@ -1,0 +1,11 @@
+{
+  "packs": [
+    "ajatt.json",
+    "LINE_YURU_YURI.json",
+    "LINE_Menhera_chan.json",
+    "LINE_Menhera_chan_2.json",
+    "LINE_Menhera_chan_3.json",
+    "LINE_HATSUNE_MIKU_Pom_Ver.json"
+  ],
+  "homeserver_url": "https://g33k.se"
+}
